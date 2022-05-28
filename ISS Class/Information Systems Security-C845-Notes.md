@@ -156,3 +156,74 @@ A candidate that doesn't have the required experience to become an SSCP may beco
 - Integrity and authentication
 - Data sensitivity (e.g., PII, intellectual property, PHI)
 - Regulatory
+
+### Understand and support secure protocols 
+- Services and protocols (e.g., IPSec, TLS, S/MIME, DKIM)
+- Common use cases 
+- Limitations and vulnerabilities
+
+### Understand Public Key Infrastructure (PKI) systems
+- Fundamental key management concepts (e.g., key rotation, key composition, key creation, exchange, revocation, escrow)
+- Web of Trust (WOT), (e.g., PGP, GPG)
+
+## Domain 6: Network and Communications Security
+### Understand and apply fundamental concepts of networing
+- OSI and TCP/IP models
+- Network topographies (e.g., ring, star, bus, mesh, tree)
+- Network relationships (e.g., peer to peer, client server)
+- Transmission media types (e.g., fiber, wired, wireless)
+- Commonly used ports and protocols
+
+## Understand network attacks and countermeasures (e.g., DDoS, man-in-the-middle, DNS poisoning)
+## Manage network access controls
+- Network access controls and monitoring (e.g., remediation, quarantine, aadmission)
+- Network access control standards and protocols (e.g., IEEE 802.1X, Radius, TACACS)
+- Remote access operations and configuration (e.g., thin client, SSL VPN, IPSec VPN, telework)
+
+### Manage network security
+- Logical and physical placement of network devices (e.g., inline, passive)
+- Segmentation (e.g., physical/logical, data/control plane, VLAN, ACLs)
+- Secure device management 
+
+### Operate and configure network-based security devices
+- FIrewalls and proxies (e.g., filtering methods)
+- Network intrusion detection/prevention systems
+- Routers and switches
+- Traffic-shaping devices (e.g., WAN optimization, load balancing)
+
+### Operate and confure wireless technolgies (e.g., bluetooth, NFC, WiFi)
+- Transmission security
+- Wireless security devices (e.g., WIPS, WIDS)
+
+## Domain 7: Systems and Applicaiton Security
+### Identify and analyze malicious code and activity
+- Malware (e.g., rootkits, spyware, scareware, ransomware, trojans, virus, worms, trapdoors, backdoors, and remote access trojans)
+- Malicious code countermeasures (e.g., scanners, anti-malware, code signing, sandboxing)
+- Malicious activity (e.g., insider threat, data theft, DDoS, botnet)
+- Malicious activity coutermeasures (e.g., user awareness, system hardening, patching, sandboxing, isolation)
+
+### Implement and operate endpoint device security
+- HIDS 
+- Host-based firewalls
+- Application white listing
+- Endpoint encryption
+- Trusted Platform Module (TPM)
+- Mobile Device Management (MDM) (e.g., COPE, BYOD)
+- Secure browsing (e.g., sandbox)
+
+### Operate and configure cloud security
+- Deployment models (e.g., public, private, hybrid, community)
+- Service models (e.g., IaaS, PaaS and SaaS)
+- Virtualization (e.g., hypervisor)
+- Legal and regulatory concerns (e.g., privacy, surveillance, data ownership, jurisdiction, eDiscovery)
+- Data storage and transmission (e.g., archiving, recovery, resilience)
+- Third party/outsourcing requirements (e.g., SLA, data portability, data destructions, auditing)
+- Shared responsibility model
+
+### Operate and secure virtual environments
+- Software-defined networking 
+- Hypervisor
+- Virtual appliances 
+- Continuity and resilience
+- Attacks and countermeasures
+- Shared storage
