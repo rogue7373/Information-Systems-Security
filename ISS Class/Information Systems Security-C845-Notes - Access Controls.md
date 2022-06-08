@@ -1,8 +1,14 @@
-# Notes For Information Systems Security - C845
+# Access Controls
 
 ## Getting started 
 ### 7 Domains
 - Access Controls
+	- CIA triad expanded 
+		- Confidentiality, Integrity, Availability, Nonrepudiation and Authorization
+	- Manage authentication mechanisms
+	- Define internet work trust architectures
+	- Apply appropriate identity and access provisioning criteria
+	- Manage access controls
 - Security Operations and Administration
 - Risk Identification, Monitoring, and Analysis
 - Incident Response and Recovery
